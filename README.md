@@ -1,4 +1,4 @@
-# Panda666 Keymaps (zmk, nice!nano)
+# Panda666 Keymaps (zmk, nrfmicro)
 ![panda666](panda666.png)
 
 ```
