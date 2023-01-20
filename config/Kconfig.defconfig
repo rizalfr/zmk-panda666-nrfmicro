@@ -4,6 +4,9 @@
 if SHIELD_REVIUNG41
 
 config ZMK_KEYBOARD_NAME
-    default "Panda666"
+    string "Panda666"
+
+config BT_DEVICE_NAME
+	default Panda666
 
 endif
