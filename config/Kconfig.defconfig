@@ -1,7 +1,7 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if REVIUNG41
+if SHIELD_REVIUNG41
 
 config ZMK_KEYBOARD_NAME
     string "Panda666"
